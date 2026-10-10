@@ -1,0 +1,89 @@
+<!DOCTYPE html> <html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Class 10 Quiz Sequence</title> <style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f4f8;
+text-align: center;
+padding: 20px;
+}
+
+h1 {
+color: #1a237e;
+}
+
+h2 {
+color: #1565c0;
+}
+
+table {
+margin: 20px auto;
+border-collapse: collapse;
+width: 90%;
+max-width: 600px;
+background-color: white;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+border: 1px solid #ccc;
+padding: 12px;
+text-align: center;
+}
+
+th {
+background-color: #1565c0;
+color: white;
+}
+
+tr:nth-child(even) {
+background-color: #e3f2fd;
+}
+
+.sequence {
+font-size: 18px;
+font-weight: bold;
+color: #2e7d32;
+margin: 20px;
+line-height: 1.8;
+}
+</style>
+
+</head> <body> <h1>Class 10 Quiz Competition</h1>
+
+<h2>Day 1 Sequence</h2>
+
+<div class="sequence">
+22, 4, 1, 31, 9, 23, 6, 2, 6
+</div>
+
+<h2>Day 2 Sequence</h2>
+
+<div class="sequence">
+5, 14, 25, 10, 18, 7, 29, 13, 3
+</div>
+
+<h2>Student Participation Details</h2>
+
+<table>
+<tr>
+<th>Order</th>
+<th>Day 1 Roll Number</th>
+<th>Day 2 Roll Number</th>
+</tr>
+
+<tr><td>1</td><td>22</td><td>5</td></tr>
+<tr><td>2</td><td>4</td><td>14</td></tr>
+<tr><td>3</td><td>1</td><td>25</td></tr>
+<tr><td>4</td><td>31</td><td>10</td></tr>
+<tr><td>5</td><td>9</td><td>18</td></tr>
+<tr><td>6</td><td>23</td><td>7</td></tr>
+<tr><td>7</td><td>6</td><td>29</td></tr>
+<tr><td>8</td><td>2</td><td>13</td></tr>
+<tr><td>9</td><td>6</td><td>3</td></tr>
+</table>
+
+</body>
+</html>
